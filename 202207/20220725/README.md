@@ -10,7 +10,7 @@
 ## 책의 결론
 >프로세서 간에 속도를 비교하는 것은 어려울 뿐만 아니라 그다지 의미도 없다
 > 
-<img src="https://github.com/projectmiluju/TIL/blob/main/202207/20220725/Processor.PNG" width="100" alt="CPU벤치마크"></img>
+<img src="https://github.com/projectmiluju/TIL/blob/main/202207/20220725/Processor.PNG" width="1000" alt="CPU벤치마크"></img>
 
 ### 왜?
 >CPU에서 중요한 3가지 코어, 클럭, 스레드   
