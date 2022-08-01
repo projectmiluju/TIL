@@ -41,11 +41,20 @@
 >크기가 n인 배열에서 선택정렬을 통해서는 O(n^2)
 ----
 ### 퀵정렬
-<img src="https://gmlwjd9405.github.io/images/algorithm-quick-sort/quick-sort.png" width="1000" alt="퀵정렬"></img>
-### 퀵정렬 시간복잡도
-<img src="https://gmlwjd9405.github.io/images/algorithm-quick-sort/sort-time-complexity-etc1.png" width="1000" alt="퀵정렬시간 복잡도"></img>
+>배열을 기준값(pivot)을 기준으로 두 개의 비균등한 크기로 분할하고 분할된 부분 배열을 정렬한 다음   
+>두 개의 정렬된 부분 배열을 합하여 전체가 정렬된 배열이 되게 하는 방법
+
+### 퀵정렬 동작방식
+> 1. 분할 : 입력된 배열을 피벗을 기준으로 비균등하게 2개의 부분 배열로 분할한다.
+> 2. 정복 : 부분 배열을 정렬하고 부분 배열의 크기가 충분히 작지 않으면 다시 분할 정복을 적용한다.
+> 3. 결합 : 정렬된 부분 배열들을 하나의 배열에 합병한다.
+>> 한번 진행될 때마다 최소한 하나의 원소(피벗)은 최종적으로 위치가 정해지므로
+>> 이 정렬은 반드시 끝나다는 것을 보장 할 수 있다.
+>
+><img src="https://gmlwjd9405.github.io/images/algorithm-quick-sort/quick-sort.png" width="1000" alt="퀵정렬"></img>
+>
 >크기가 n인 배열에서 퀵정렬을 통해서는 평균적으로 O(nlog2 n) 최악의 경우 O(n^2)   
-> 기준값(pivot)에 따라서 시간복잡도가 크게 달라짐
+>기준값(pivot)에 따라서 시간복잡도가 크게 달라짐
 
 
 >선택정렬은 단순하지만 비효울적인 방법   
