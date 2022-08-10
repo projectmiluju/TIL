@@ -17,7 +17,7 @@
 
 <br></br>
 
-**9조의 궁금증**
+**우리의 궁금증**
 
 **JPA vs. Spring Data JPA vs. Hibernate vs. JDBC**
 
