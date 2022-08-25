@@ -6,4 +6,4 @@
 - [2022.08.15](https://github.com/projectmiluju/TIL/tree/main/202208/20220815)
   `keyWords :: CS | WIFI | 통신`
 - [2022.08.20](https://github.com/projectmiluju/TIL/tree/main/202208/20220820)
-    `keyWords :: CS |  |`
+    `keyWords :: CS | 인터넷`
