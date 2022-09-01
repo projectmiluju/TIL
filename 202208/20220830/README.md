@@ -11,7 +11,7 @@
 
 스프링 자체 **JavaMailSender** 기능을 사용했다.
 
-```aidl
+```
 dependencies{
 
 implementation 'org.springframework.boot:spring-boot-starter-mail'
