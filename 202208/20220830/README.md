@@ -18,3 +18,4 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 }
 ```
+<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="email" width="500">
