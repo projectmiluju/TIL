@@ -18,6 +18,6 @@ implementation 'org.springframework.boot:spring-boot-starter-mail'
 
 }
 ```
-<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="email" width="500"></img><br/>
-<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="emailid" width="500"></img><br/>
-<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="emailurl" width="500"></img><br/>
+<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="email" width="1000"></img><br/>
+<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="emailid" width="1000"></img><br/>
+<img src="https://github.com/projectmiluju/TIL/blob/main/202208/20220830/email.PNG" alt="emailurl" width="1000"></img><br/>
