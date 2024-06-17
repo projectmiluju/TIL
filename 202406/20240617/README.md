@@ -3,6 +3,15 @@
 ## ProJect Vinyl
 
 ```angular2html
-Spring Security와 JWT
+Spring Security 와 JWT
 ```
 
+공식적으로 spring boot 2.x.x 버전의 지원이 끝나며   
+spring boot 3.x.x으로 넘어오게 되어 spring security 설정에   
+몇몇 작은 변화가 있는 것 같다. 전에 진행했던 project와의 차이로 인해   
+사소한 부분에서 생각보다 시간을 오래 쓰게 만들었다.
+
+JWT 토큰은 전에 진행한 인스타그램 클론코딩에서 사용한 코드를 그대로 가져와서   
+사용했는데 앞으로 시간을 두고 코드 한줄 한줄을 제대로 분석해야 할 듯 싶다.   
+불필요한 코드는 걷어내고 수정해야 할 부분은 수정할 부분은 수정해   
+리펙터링의 시간을 가져야겠다.
